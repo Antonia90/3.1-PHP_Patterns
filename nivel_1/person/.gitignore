@@ -1,0 +1,9 @@
+vendor/
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+*.swp
+.phpunit.cache/
+coverage/
